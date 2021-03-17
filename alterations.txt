@@ -1,0 +1,4 @@
+replace fileupload.php to \dental\modules\revsliderprestashop\views\
+replace \fileuploader to \dental\modules\revsliderprestashop\rs-plugin\fileuploader\ ALL FILES
+replace revolutionslider_ajax.php to \dental\modules\revsliderprestashop\controllers\admin\
+replace revslider_admin.php to \dental\modules\revsliderprestashop\
